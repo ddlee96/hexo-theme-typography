@@ -1,9 +1,10 @@
-title_primary: "丞喃旧事" # the bigger text
-title_secondary: "并非一个人的成长史" # the smaller text
+
+title_primary: "从前慢" # the bigger text
+title_secondary: "殷勤昨夜三更雨" # the smaller text
 keywords:
 
 twitter: #username
-rss: atom.xml
+rss: #atom.xml
 weibo: #username/id
 instagram: #username
 github: #username
